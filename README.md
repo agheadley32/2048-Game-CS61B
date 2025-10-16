@@ -10,7 +10,7 @@ The game challenges players to combine numbered tiles on a 4x4 grid to reach the
   - Restart functionality
    - Simple and responsive user interface
 
-    ## 🖼️ Screenshot
+## 🖼️ Screenshot
 ![Screenshot 2025-10-16 at 12.06.23 PM.png](resources/Screenshot%202025-10-16%20at%2012.06.23%E2%80%AFPM.png)
 
 ## 🛠️ How to Run
