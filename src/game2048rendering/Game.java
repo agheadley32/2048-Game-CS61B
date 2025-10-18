@@ -8,7 +8,7 @@ import java.util.Random;
 import static game2048rendering.Side.*;
 
 /** The input/output and GUI controller for play of a game of 2048.
- *  @author P. N. Hilfinger. */
+ *  @author P. N. Hilfinger. and Addison Headley */
 class Game {
 
 

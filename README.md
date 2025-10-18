@@ -1,6 +1,6 @@
 # 2048 Game - CS61B
 ## 🎮 Overview
-This is a Java implementation of the **2048 Game**, developed for my UC Berkeley **CS61B** course.  
+This is a Java implementation of the **2048 Game**, developed for my UC Berkeley **CS61B** course. Students were provided with a skeleton outline. 
 The game challenges players to combine numbered tiles on a 4x4 grid to reach the **2048** tile.
 
 ## 🧠 Features

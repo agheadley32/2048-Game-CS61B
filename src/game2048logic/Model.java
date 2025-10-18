@@ -10,7 +10,7 @@ import java.util.Formatter;
 /**
  * The state of a game of 2048.
  *
- * @author P. N. Hilfinger + Josh Hug
+ * @author P. N. Hilfinger + Josh Hug + Addison Headley
  */
 public class Model {
     /**
